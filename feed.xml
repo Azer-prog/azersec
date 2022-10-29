@@ -1,0 +1,206 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Azer Sebei</title>
+  <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
+  <updated>2022-10-29T16:38:14-07:00</updated>
+  <author>
+    <name>Azer Sebei</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator>
+  <rights> © 2022 Azer Sebei </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Building An Actual OS (Without knowing anything)</title>
+    <link href="http://localhost:4000/posts/Building-an-OS-without-knowing-ANything/" rel="alternate" type="text/html" title="Building An Actual OS (Without knowing anything)" />
+    <published>2022-10-29T00:00:00-07:00</published>
+  
+    <updated>2022-10-29T00:00:00-07:00</updated>
+  
+    <id>http://localhost:4000/posts/Building-an-OS-without-knowing-ANything/</id>
+    <content src="http://localhost:4000/posts/Building-an-OS-without-knowing-ANything/" />
+    <author>
+      <name>Azer Sebei</name>
+    </author>
+
+  
+    
+    <category term="Randoms" />
+    
+    <category term="OS building" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      This is my journey of building an OS , from the lowest level to actual usage without any knowledge.
+
+Who Am I :
+
+NVM.
+
+Why Am I building an OS ? (Just use one of the available ones already )
+
+I’m not on the quest to build an OS for actual usage or to compete with Linux and Windows.
+
+I’m trying to build an OS for the simple reason of learning how every line of code works on the lowest level of t...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Building An Actual OS (Without knowing anything) PART II</title>
+    <link href="http://localhost:4000/posts/TEST/" rel="alternate" type="text/html" title="Building An Actual OS (Without knowing anything) PART II" />
+    <published>2022-10-29T00:00:00-07:00</published>
+  
+    <updated>2022-10-29T00:00:00-07:00</updated>
+  
+    <id>http://localhost:4000/posts/TEST/</id>
+    <content src="http://localhost:4000/posts/TEST/" />
+    <author>
+      <name>Azer Sebei</name>
+    </author>
+
+  
+    
+    <category term="Randoms" />
+    
+    <category term="OS building" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      The part where I pretend to know things that I don’t.
+
+Since you all requested I go through the agony of working on this , in this part we will be attempting to write some words on the screen and pretend everything is going as planned.
+
+Goal: Make our previously silent boot sector print some text
+
+After the great accomplishment of creating our first boot sector and trying it first hand , some s...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Building An Actual OS (Without knowing anything) PART III</title>
+    <link href="http://localhost:4000/posts/TES2T/" rel="alternate" type="text/html" title="Building An Actual OS (Without knowing anything) PART III" />
+    <published>2022-10-29T00:00:00-07:00</published>
+  
+    <updated>2022-10-29T00:00:00-07:00</updated>
+  
+    <id>http://localhost:4000/posts/TES2T/</id>
+    <content src="http://localhost:4000/posts/TES2T/" />
+    <author>
+      <name>Azer Sebei</name>
+    </author>
+
+  
+    
+    <category term="Randoms" />
+    
+    <category term="OS building" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Building An Actual OS (Without knowing anything) PART III
+
+the worst part so far.
+
+This part will be about memory.
+
+Goal: Learn how the computer memory is organized.
+
+We said earlier how the CPU fetches and executes instructions from memory, and how it was BIOS that loaded our 512-byte boot sector into memory and then, having finished its initialisations, told the CPU to jump to the start of ou...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Writeup Internal</title>
+    <link href="http://localhost:4000/posts/Internal-Writeup/" rel="alternate" type="text/html" title="Writeup Internal" />
+    <published>2022-10-29T00:00:00-07:00</published>
+  
+    <updated>2022-10-29T00:00:00-07:00</updated>
+  
+    <id>http://localhost:4000/posts/Internal-Writeup/</id>
+    <content src="http://localhost:4000/posts/Internal-Writeup/" />
+    <author>
+      <name>Azer Sebei</name>
+    </author>
+
+  
+    
+    <category term="Wrietups" />
+    
+    <category term="TryHackMe" />
+    
+    <category term="Internal" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      I-ENUMERATION.
+
+Starting nmap with the given address of the machine with the following options:
+
+
+  sC : Equivalent to — script=default
+  sV : Service Version scan
+  Pn : No ping scan ( With this option, nmap continues to perform its function, as if the host is acti
+We get the following results :
+
+
+We have an SSH running on port 22 that we should be able to abuse later on (maybe).
+
+We have an A...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+

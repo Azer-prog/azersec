@@ -1,0 +1,64 @@
+[
+  
+  {
+    "title": "Building An Actual OS (Without knowing anything)",
+    "url": "/posts/Building-an-OS-without-knowing-ANything/",
+    "categories": "Randoms, OS building",
+    "tags": "os, html, js",
+    "date": "2022-10-29 00:00:00 -0700",
+    
+
+
+
+
+
+    "snippet": "This is my journey of building an OS , from the lowest level to actual usage without any knowledge.Who Am I :NVM.Why Am I building an OS ? (Just use one of the available ones already )I’m not on th..."
+  },
+  
+  {
+    "title": "Building An Actual OS (Without knowing anything) PART II",
+    "url": "/posts/TEST/",
+    "categories": "Randoms, OS building",
+    "tags": "os, html, js",
+    "date": "2022-10-29 00:00:00 -0700",
+    
+
+
+
+
+
+    "snippet": "The part where I pretend to know things that I don’t.Since you all requested I go through the agony of working on this , in this part we will be attempting to write some words on the screen and pre..."
+  },
+  
+  {
+    "title": "Building An Actual OS (Without knowing anything) PART III",
+    "url": "/posts/TES2T/",
+    "categories": "Randoms, OS building",
+    "tags": "os, html, js",
+    "date": "2022-10-29 00:00:00 -0700",
+    
+
+
+
+
+
+    "snippet": "Building An Actual OS (Without knowing anything) PART IIIthe worst part so far.This part will be about memory.Goal: Learn how the computer memory is organized.We said earlier how the CPU fetches an..."
+  },
+  
+  {
+    "title": "Writeup Internal",
+    "url": "/posts/Internal-Writeup/",
+    "categories": "Wrietups, TryHackMe, Internal",
+    "tags": "os, html, js, cms, pentest, privec, revshells, tryhackme, wordpress",
+    "date": "2022-10-29 00:00:00 -0700",
+    
+
+
+
+
+
+    "snippet": "I-ENUMERATION.Starting nmap with the given address of the machine with the following options:  sC : Equivalent to — script=default  sV : Service Version scan  Pn : No ping scan ( With this option, ..."
+  }
+  
+]
+
