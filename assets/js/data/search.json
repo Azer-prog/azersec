@@ -46,6 +46,21 @@
   },
   
   {
+    "title": "Mahdi",
+    "url": "/posts/MAHDI/",
+    "categories": "Wrietups, TryHackMe, Internal",
+    "tags": "os, html, js, cms, pentest, privec, revshells, tryhackme, wordpress, mahdi",
+    "date": "2022-10-29 00:00:00 -0700",
+    
+
+
+
+
+
+    "snippet": "whoamivar add2 = function(number) {\treturn number + 2;}pythona, b = 0, 1while b &lt; 10:    print(b)    a, b = a, a + b   "
+  },
+  
+  {
     "title": "Writeup Internal",
     "url": "/posts/Internal-Writeup/",
     "categories": "Wrietups, TryHackMe, Internal",
