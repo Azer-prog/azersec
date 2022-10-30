@@ -1,6 +1,21 @@
 [
   
   {
+    "title": "Writeup Internal",
+    "url": "/posts/Internal-Writeup/",
+    "categories": "Wrietups, TryHackMe, Internal",
+    "tags": "os, html, js, cms, pentest, privec, revshells, tryhackme, wordpress",
+    "date": "2022-10-29 00:00:00 -0700",
+    
+
+
+
+
+
+    "snippet": "I-ENUMERATION.Starting nmap with the given address of the machine with the following options:  sC : Equivalent to — script=default  sV : Service Version scan  Pn : No ping scan ( With this option, ..."
+  },
+  
+  {
     "title": "Building An Actual OS (Without knowing anything)",
     "url": "/posts/Building-an-OS-without-knowing-ANything/",
     "categories": "Randoms, OS building",
@@ -47,7 +62,7 @@
   
   {
     "title": "Mahdi",
-    "url": "/posts/MAHDI/",
+    "url": "/posts/TEST1/",
     "categories": "Wrietups, TryHackMe, Internal",
     "tags": "os, html, js, cms, pentest, privec, revshells, tryhackme, wordpress, mahdi",
     "date": "2022-10-29 00:00:00 -0700",
@@ -58,21 +73,6 @@
 
 
     "snippet": "whoamivar add2 = function(number) {\treturn number + 2;}pythona, b = 0, 1while b &lt; 10:    print(b)    a, b = a, a + b   "
-  },
-  
-  {
-    "title": "Writeup Internal",
-    "url": "/posts/Internal-Writeup/",
-    "categories": "Wrietups, TryHackMe, Internal",
-    "tags": "os, html, js, cms, pentest, privec, revshells, tryhackme, wordpress",
-    "date": "2022-10-29 00:00:00 -0700",
-    
-
-
-
-
-
-    "snippet": "I-ENUMERATION.Starting nmap with the given address of the machine with the following options:  sC : Equivalent to — script=default  sV : Service Version scan  Pn : No ping scan ( With this option, ..."
   }
   
 ]

@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
   <title>Azer Sebei</title>
-  <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-10-29T16:46:09-07:00</updated>
+  <subtitle>The place for unfinished projects and writeups.</subtitle>
+  <updated>2022-10-30T07:13:02-07:00</updated>
   <author>
     <name>Azer Sebei</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,57 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Writeup Internal</title>
+    <link href="http://localhost:4000/posts/Internal-Writeup/" rel="alternate" type="text/html" title="Writeup Internal" />
+    <published>2022-10-29T00:00:00-07:00</published>
+  
+    <updated>2022-10-29T00:00:00-07:00</updated>
+  
+    <id>http://localhost:4000/posts/Internal-Writeup/</id>
+    <content src="http://localhost:4000/posts/Internal-Writeup/" />
+    <author>
+      <name>Azer Sebei</name>
+    </author>
+
+  
+    
+    <category term="Wrietups" />
+    
+    <category term="TryHackMe" />
+    
+    <category term="Internal" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      I-ENUMERATION.
+
+Starting nmap with the given address of the machine with the following options:
+
+
+  sC : Equivalent to — script=default
+  sV : Service Version scan
+  Pn : No ping scan ( With this option, nmap continues to perform its function, as if the host is acti
+We get the following results :
+
+
+We have an SSH running on port 22 that we should be able to abuse later on (maybe).
+
+We have an A...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -153,13 +204,13 @@ We said earlier how the CPU fetches and executes instructions from memory, and h
   
   <entry>
     <title>Mahdi</title>
-    <link href="http://localhost:4000/posts/MAHDI/" rel="alternate" type="text/html" title="Mahdi" />
+    <link href="http://localhost:4000/posts/TEST1/" rel="alternate" type="text/html" title="Mahdi" />
     <published>2022-10-29T00:00:00-07:00</published>
   
     <updated>2022-10-29T00:00:00-07:00</updated>
   
-    <id>http://localhost:4000/posts/MAHDI/</id>
-    <content src="http://localhost:4000/posts/MAHDI/" />
+    <id>http://localhost:4000/posts/TEST1/</id>
+    <content src="http://localhost:4000/posts/TEST1/" />
     <author>
       <name>Azer Sebei</name>
     </author>
@@ -197,57 +248,6 @@ while b &amp;lt; 10:
     a, b = a, a + b
    
 
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Writeup Internal</title>
-    <link href="http://localhost:4000/posts/Internal-Writeup/" rel="alternate" type="text/html" title="Writeup Internal" />
-    <published>2022-10-29T00:00:00-07:00</published>
-  
-    <updated>2022-10-29T00:00:00-07:00</updated>
-  
-    <id>http://localhost:4000/posts/Internal-Writeup/</id>
-    <content src="http://localhost:4000/posts/Internal-Writeup/" />
-    <author>
-      <name>Azer Sebei</name>
-    </author>
-
-  
-    
-    <category term="Wrietups" />
-    
-    <category term="TryHackMe" />
-    
-    <category term="Internal" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      I-ENUMERATION.
-
-Starting nmap with the given address of the machine with the following options:
-
-
-  sC : Equivalent to — script=default
-  sV : Service Version scan
-  Pn : No ping scan ( With this option, nmap continues to perform its function, as if the host is acti
-We get the following results :
-
-
-We have an SSH running on port 22 that we should be able to abuse later on (maybe).
-
-We have an A...
     </summary>
   
 
